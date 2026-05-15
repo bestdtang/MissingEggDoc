@@ -1,4 +1,4 @@
-﻿# MissingEggDoc
+# MissingEggDoc
 
 公开的游戏设计文档库：**抖音小火人世界 · 3D 轻量侦探游戏** 整体方案，Markdown 分区文档。
 
